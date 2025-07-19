@@ -10,7 +10,7 @@ Personal, authentic, and in-progress.
 I'm **Aarthi Honguthi** — CS undergrad at ABV-IIITM, currently chasing bugs, dreams, and a stable debugger  
 I’m into full-stack development, distributed systems, serverless stuff, and dabbling in AI/ML.
 
-> 🤝 Uncertain about my own journey, but always cheering others on and studying for interviews at 2AM.
+> 🤝 Yesterday’s doubts. Today’s grind. Tomorrow’s story.
 
 ---
 
