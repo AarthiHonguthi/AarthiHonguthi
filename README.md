@@ -51,7 +51,11 @@ Most of what I know came from hours of docs, errors I didn’t understand at fir
 
 I ~~regularly~~ write articles on [Medium](https://medium.com/@aarthihonguthi025)
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 Portfolio: [aarthihonguthi.github.io/portfolio2.O](https://aarthihonguthi.github.io/portfolio2.O/)
+
 
 Member of [**Uthaan**](https://www.youtube.com/c/UthaanIIITM), our campus journalism club — we run HYP (How You Got Placed) series and the cool Fresher's Video is shot by us  
 
