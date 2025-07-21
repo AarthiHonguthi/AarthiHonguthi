@@ -52,6 +52,11 @@ Most of what I know came from hours of docs, errors I didn’t understand at fir
 I ~~regularly~~ write articles on [Medium](https://medium.com/@aarthihonguthi025)
 
 <!-- BLOG-POST-LIST:START -->
+- [From Idea to App Store: Your Blueprint for Building Any Tech Project](https://medium.com/@aarthihonguthi025/from-idea-to-app-store-your-blueprint-for-building-any-tech-project-ce16785cb4da?source=rss-f9d595f61959------2)
+- [GEN AI vs AI AGENTS vs AGENTIC AI](https://medium.com/@aarthihonguthi025/gen-ai-vs-ai-agents-vs-agentic-ai-2255bd671d0f?source=rss-f9d595f61959------2)
+- [Understanding Binding in Programming](https://medium.com/@aarthihonguthi025/understanding-binding-in-programming-eb9a15be49d4?source=rss-f9d595f61959------2)
+- [Object Oriented Programming with C++ &lpar;Part- 1&rpar;](https://blog.devgenius.io/object-oriented-programming-with-c-part-1-a498837229e4?source=rss-f9d595f61959------2)
+- [Navigating the Cloud: A Beginner’s Guide to Cloud Computing](https://medium.com/@aarthihonguthi025/navigating-the-cloud-a-beginners-guide-to-cloud-computing-d5bf8716dd2c?source=rss-f9d595f61959------2)
 <!-- BLOG-POST-LIST:END -->
 
 Portfolio: [aarthihonguthi.github.io/portfolio2.O](https://aarthihonguthi.github.io/portfolio2.O/)
