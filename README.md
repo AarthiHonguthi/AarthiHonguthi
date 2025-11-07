@@ -52,11 +52,11 @@ Most of what I know came from hours of docs, errors I didn’t understand at fir
 I ~~regularly~~ write articles on [Medium](https://medium.com/@aarthihonguthi025)
 
 <!-- BLOG-POST-LIST:START -->
-- [What caused the large AWS outage?](https://medium.com/@aarthihonguthi025/what-caused-the-large-aws-outage-f67b07719769)
+- [What caused the large AWS outage?](https://medium.com/@aarthihonguthi025/what-caused-the-large-aws-outage-f67b07719769?source=rss-f9d595f61959------2)
 - [The Placement Grind](https://medium.com/@aarthihonguthi025/the-placement-grind-880ad289ca6a?source=rss-f9d595f61959------2)
+- [From Idea to App Store: Your Blueprint for Building Any Tech Project](https://medium.com/@aarthihonguthi025/from-idea-to-app-store-your-blueprint-for-building-any-tech-project-ce16785cb4da?source=rss-f9d595f61959------2)
 - [GEN AI vs AI AGENTS vs AGENTIC AI](https://medium.com/@aarthihonguthi025/gen-ai-vs-ai-agents-vs-agentic-ai-2255bd671d0f?source=rss-f9d595f61959------2)
 - [Understanding Binding in Programming](https://medium.com/@aarthihonguthi025/understanding-binding-in-programming-eb9a15be49d4?source=rss-f9d595f61959------2)
-- [Object Oriented Programming with C++ &lpar;Part- 1&rpar;](https://blog.devgenius.io/object-oriented-programming-with-c-part-1-a498837229e4?source=rss-f9d595f61959------2)
 <!-- BLOG-POST-LIST:END -->
 
 Portfolio: [aarthihonguthi.github.io/portfolio2.O](https://aarthihonguthi.github.io/portfolio2.O/)
